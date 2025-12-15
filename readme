@@ -1,0 +1,53 @@
+# Netflix UI Clone 🎬
+
+A **static Netflix UI clone** built using **HTML and CSS **. This project was created to practice and improve my front-end fundamentals, especially layout, styling, and responsive design.
+
+---
+
+## Project Overview
+
+This project replicates the **visual layout** of Netflix's homepage, focusing purely on the **user interface**.
+> ⚠️ This is a **UI clone for educational purposes only**. It is not affiliated with or endorsed by Netflix.
+
+---
+
+## 🛠️ Technologies Used
+
+* **HTML5** 
+* **CSS3** 
+
+---
+
+## 📂 Project Structure
+
+/Netflix-UI
+│
+├── index.html
+├── styles.css
+└── assets/
+    ├── images/
+    └── icons/
+
+```
+
+## 📌 How to Run
+
+1. Clone or download the repository
+2. Open `index.html` in your browser
+
+---
+
+## 🙌 Acknowledgements
+
+* Inspired by Netflix's official website
+* Built purely for learning and practice
+
+---
+
+## 🧑‍💻 Author
+
+**Muhammad Ansar B**
+
+---
+
+⭐ If you like this project, feel free to star the repo!
