@@ -1,6 +1,6 @@
 # Netflix UI Clone 🎬
 
-A **static Netflix UI clone** built using **HTML and CSS **. This project was created to practice and improve my front-end fundamentals, especially layout, styling, and responsive design.
+A **static Netflix UI clone** built using **HTML and CSS**. This project was created to practice and improve my front-end fundamentals, especially layout, styling, and responsive design.
 
 ---
 
@@ -20,6 +20,7 @@ This project replicates the **visual layout** of Netflix's homepage, focusing pu
 
 ## 📂 Project Structure
 
+```
 /Netflix-UI
 │
 ├── index.html
@@ -27,8 +28,10 @@ This project replicates the **visual layout** of Netflix's homepage, focusing pu
 └── assets/
     ├── images/
     └── icons/
-
 ```
+
+
+---
 
 ## 📌 How to Run
 
